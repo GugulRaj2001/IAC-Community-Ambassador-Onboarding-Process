@@ -1,4 +1,4 @@
-# 🌐 Community Ambassador Onboarding System
+# 🌐 IAC Community Ambassador Onboarding System
 
 A full-stack web application built with **Spring Boot**, **Oracle DB**, and **Vanilla JavaScript** for managing the onboarding and performance tracking of community ambassadors through a registration form and a performance dashboard.
 
@@ -52,11 +52,6 @@ A full-stack web application built with **Spring Boot**, **Oracle DB**, and **Va
 
 ---
 
-## 🛠️ Setup Instructions
+# 🖼️ Project Flow Diagram
 
-### 📁 Backend (Spring Boot)
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/CAonboardingSystem.git
-   cd CAonboardingSystem
