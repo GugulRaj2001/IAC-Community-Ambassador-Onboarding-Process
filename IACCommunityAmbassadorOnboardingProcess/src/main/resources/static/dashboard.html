@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Community Ambassadors Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Community Ambassadors Performance</h2>
+    <div class="catable">
+      <table id="caTable">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>UTM Link</th>
+            <th>Signups</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Dynamic rows will be inserted here -->
+        </tbody>
+      </table>
+     
+
+  <script>
+    // Function to load performance data
+    async function loadPerformance() {
+      const response = await fetch('http://localhost:8080/api/cas/performance');
+      const data = await response.json();
+      const tableBody = document.querySelector('#caTable tbody');
+      tableBody.innerHTML = '';
+      data.forEach(ca => {
+        const row = `
+          <tr>
+            <td>${ca.name}</td>
+            <td>${ca.email}</td>
+            <td><a href="${ca.utmLink}" target="_blank">Link</a></td>
+            <td>${ca.signups}</td>
+          </tr>
+        `;
+        tableBody.innerHTML += row;
+      });
+    }
+
+    // Load performance data on page load
+    window.onload = loadPerformance;
+  </script>
+</body>
+</html>
