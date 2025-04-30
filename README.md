@@ -1,8 +1,7 @@
 # 🚀 IAC Community Ambassadors Onboarding Process
 
 A Java project to automate the onboarding of community ambassadors, generate UTM tracking links, send welcome emails, and display ambassador performance dashboards. Built as part of the **GPI 2025 Internship Program** by **Cloud Counselage Pvt. Ltd.**
-
--> It is also Approach Full Stack Java Developement
+-It is also Approach Full Stack Java Developement
 
 ---
 
@@ -24,6 +23,7 @@ A Java project to automate the onboarding of community ambassadors, generate UTM
 - [How to Run Locally](#how-to-run-locally)
 - [Project Status](#project-status)
 - [License](#license)
+
 
 ---
 
@@ -107,7 +107,7 @@ This project solves the problem by:
 
 ---
 
-# 🖼️ Project Flow Diagram
+## 🖼️ Project Flow Diagram
 
 ![CA Flow Diagram](https://github.com/GugulRaj2001/IAC-Community-Ambassador-Onboarding-Process/blob/8fb7331eb9ee61de8eb677dd429503fc33dfef82/CA%20Project%20Flow%20Diagram.png)
 
@@ -162,7 +162,7 @@ This project solves the problem by:
 
 ## 🖼️ Project Screenshots
 
-> *(Out put of Project Screenshorts)*
+> *(Out put of Project and project Screenshorts)*
 
 **Ambassador Login Form**
 
@@ -181,9 +181,7 @@ This project solves the problem by:
 
 -📌[View IAC Technical Summary](Project%20Documents/IAC%20Technical%20Summary.docx)
 
-- 📌[Download IAC Technical Summary](https://github.com/GugulRaj2001/IAC-Community-Ambassador-Onboarding-Process/raw/main/Project%20Documents/IAC%20Technical%20Summary.docx)
-
-   
+-📌[Download IAC Technical Summary](https://github.com/GugulRaj2001/IAC-Community-Ambassador-Onboarding-Process/raw/main/Project%20Documents/IAC%20Technical%20Summary.docx)
 
 ---
 
