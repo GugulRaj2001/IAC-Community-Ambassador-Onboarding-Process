@@ -1,6 +1,7 @@
 # 🚀 IAC Community Ambassadors Onboarding Process
 
-AJava project to automate the onboarding of community ambassadors, generate UTM tracking links, send welcome emails, and display ambassador performance dashboards. Built as part of the **GPI 2025 Internship Program** by **Cloud Counselage Pvt. Ltd.**
+A Java project to automate the onboarding of community ambassadors, generate UTM tracking links, send welcome emails, and display ambassador performance dashboards. Built as part of the **GPI 2025 Internship Program** by **Cloud Counselage Pvt. Ltd.**
+
 -> It is also Approach Full Stack Java Developement
 
 ---
@@ -12,8 +13,8 @@ AJava project to automate the onboarding of community ambassadors, generate UTM 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Architecture](#project-architecture)
-- [Project Flow](#project-Flow)
-- [Project Flow Diagram](#project-Flow-Diagram)
+- [Project Flow](#project-flow)
+- [Project Flow Diagram](#project-flow-diagram)
 - [Backend Modules](#backend-modules)
 - [Frontend Modules](#frontend-modules)
 - [Database Design](#database-design)
@@ -36,7 +37,7 @@ The project follows a full SDLC lifecycle including documentation, planning, dev
 
 ## 🎯 Problem Statement
 
-Manually onboarding ambassadors and tracking their contributions is time-consuming and inefficient.  
+Automate Onboarding ambassadors and tracking their contributions is time-consuming and inefficient.  
 This project solves the problem by:
 
 - Automating registration and UTM link generation
@@ -161,16 +162,28 @@ This project solves the problem by:
 
 ## 🖼️ Project Screenshots
 
-> *(Include screenshots after uploading images to GitHub and link like this)*
+> *(Out put of Project Screenshorts)*
+
+**Ambassador Login Form**
 
 ![Log-in Form](https://github.com/GugulRaj2001/IAC-Community-Ambassador-Onboarding-Process/blob/8fb7331eb9ee61de8eb677dd429503fc33dfef82/CA%20Login%20page.png)
-*Ambassador Login Form*
+
+**Ambassador Registration Form**
 
 ![Registration Form](https://github.com/GugulRaj2001/IAC-Community-Ambassador-Onboarding-Process/blob/8fb7331eb9ee61de8eb677dd429503fc33dfef82/CA%20Registertion%20Form.png)
-*Ambassador Registration Form*
+
+**Performance Dashboard**
 
 ![Dashboard](https://github.com/GugulRaj2001/IAC-Community-Ambassador-Onboarding-Process/blob/8fb7331eb9ee61de8eb677dd429503fc33dfef82/CA%20dashboard.png)
-*Performance Dashboard*
+
+
+**If you want More Clarity about 5th point go to this file:**
+
+-📌[View IAC Technical Summary](Project%20Documents/IAC%20Technical%20Summary.docx)
+
+- 📌[Download IAC Technical Summary](https://github.com/GugulRaj2001/IAC-Community-Ambassador-Onboarding-Process/raw/main/Project%20Documents/IAC%20Technical%20Summary.docx)
+
+   
 
 ---
 
@@ -197,11 +210,9 @@ This project solves the problem by:
 
 4. Build and run the Spring Boot app
 
- 📌 mvn spring-boot:run
+   -📌 mvn spring-boot:run
 
 5. Open **register.html** and **dashboard.html** from your browser to interact with UI.
-
-6. If you want More Clarity about 5th point go to this file:
 
 
 ## 📌 Project Status
