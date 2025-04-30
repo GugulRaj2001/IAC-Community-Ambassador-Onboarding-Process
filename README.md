@@ -1,7 +1,7 @@
 # 🚀 IAC Community Ambassadors Onboarding Process
 
 A Java project to automate the onboarding of community ambassadors, generate UTM tracking links, send welcome emails, and display ambassador performance dashboards. Built as part of the **GPI 2025 Internship Program** by **Cloud Counselage Pvt. Ltd.**
--It is also Approach Full Stack Java Developement
+It is also Approach Full Stack Java Developement.
 
 ---
 
@@ -212,25 +212,33 @@ This project solves the problem by:
 
 5. Open **register.html** and **dashboard.html** from your browser to interact with UI.
 
+---
 
 ## 📌 Project Status
 
-✅ Completed
-📦 Final deliverables submitted
-📄 All documentation prepared
-🚀 Ready for deployment
+-✅ Completed
+
+-📦 Final deliverables submitted
+
+-📄 All documentation prepared
+
+-🚀 Ready for deployment
+
+---
 
 ## 📃 License
 - This project is for academic and internship learning purposes only. Not for commercial use.
 
+---
+
 ## 💼 Developed By
-Guguloth Rajkumar
-Graduate in Civil Engineering | Full Stack Java Developer
-Cloud Counselage Pvt. Ltd. 
-GPI 2025 Intern
-Hyderabad, Telangana
-📧 rajkumar173927@gmail.com
-📞 +91-9390494309
+-Guguloth Rajkumar
+G-raduate in Civil Engineering | Full Stack Java Developer
+-Cloud Counselage Pvt. Ltd. 
+-GPI 2025 Intern
+-Hyderabad, Telangana
+-📧 rajkumar173927@gmail.com
+-📞 +91-9390494309
 
 
 
