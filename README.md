@@ -233,12 +233,14 @@ This project solves the problem by:
 
 ## 💼 Developed By
 -Guguloth Rajkumar
-G-raduate in Civil Engineering | Full Stack Java Developer
--Cloud Counselage Pvt. Ltd. 
--GPI 2025 Intern
+
+-Graduate in Civil Engineering | Full Stack Java Developer
+
+-Cloud Counselage Pvt. Ltd. | GPI 2025 Intern
+
 -Hyderabad, Telangana
--📧 rajkumar173927@gmail.com
--📞 +91-9390494309
+
+-📧 rajkumar173927@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkumar-guguloth/) | 📞 +91-9390494309
 
 
 
