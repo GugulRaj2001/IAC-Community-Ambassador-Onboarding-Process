@@ -209,7 +209,7 @@ This project solves the problem by:
 
 4. Build and run the Spring Boot app
 
-   -📌 mvn spring-boot:run
+   - 📌 mvn spring-boot:run
 
 5. Open **register.html** and **dashboard.html** from your browser to interact with UI.
 
@@ -232,7 +232,7 @@ This project solves the problem by:
 
 ---
 
-## ▶️ Watch the Demo Video
+## Watch the Demo Video ▶️
 - Google Drive link : [(https://drive.google.com/file/d/1ryGsOM-176kfxamsQODi0Ycw6t-HjIXJ/view?usp=drive_link)](https://drive.google.com/file/d/1ryGsOM-176kfxamsQODi0Ycw6t-HjIXJ/view?usp=drive_link)
 - Youtube link : [https://youtu.be/Fl_dOi07GPE](https://youtu.be/Fl_dOi07GPE)
 
