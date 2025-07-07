@@ -7,8 +7,8 @@ It is also Approach Full Stack Java Developement.
 
 ## 📌 Table of Contents
 
-- [About the Project 📖](#about-the-project)
-- [Problem Statement](#problem-statement-🎯)
+- [About the Project 📖](#about-the-project-📖)
+- [Problem Statement](#problem-statement)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Architecture](#project-architecture)
