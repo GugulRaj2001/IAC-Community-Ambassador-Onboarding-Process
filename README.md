@@ -22,7 +22,7 @@ It is also Approach Full Stack Java Developement.
 - [Challenges Faced](#challenges-faced)
 - [How to Run Locally](#how-to-run-locally)
 - [Project Status](#project-status)
-- [Watch the Demo Video](#Watch-the-Demo-Video)
+- [Watch the Demo Video](#watch-the-demo-video)
 - [License](#license)
 
 
@@ -180,9 +180,9 @@ This project solves the problem by:
 
 **If you want More Clarity about 5th point go to this file:**
 
--📌[View IAC Technical Summary](Project%20Documents/IAC%20Technical%20Summary.docx)
+- 📌[View IAC Technical Summary](Project%20Documents/IAC%20Technical%20Summary.docx)
 
--📌[Download IAC Technical Summary](https://github.com/GugulRaj2001/IAC-Community-Ambassador-Onboarding-Process/raw/main/Project%20Documents/IAC%20Technical%20Summary.docx)
+- 📌[Download IAC Technical Summary](https://github.com/GugulRaj2001/IAC-Community-Ambassador-Onboarding-Process/raw/main/Project%20Documents/IAC%20Technical%20Summary.docx)
 
 ---
 
@@ -217,13 +217,13 @@ This project solves the problem by:
 
 ## 📌 Project Status
 
--✅ Completed
+- ✅ Completed
 
--📦 Final deliverables submitted
+- 📦 Final deliverables submitted
 
--📄 All documentation prepared
+- 📄 All documentation prepared
 
--🚀 Ready for deployment
+- 🚀 Ready for deployment
 
 ---
 
@@ -235,18 +235,17 @@ This project solves the problem by:
 ## ▶️ Watch the Demo Video
 - Google Drive link : [(https://drive.google.com/file/d/1ryGsOM-176kfxamsQODi0Ycw6t-HjIXJ/view?usp=drive_link)](https://drive.google.com/file/d/1ryGsOM-176kfxamsQODi0Ycw6t-HjIXJ/view?usp=drive_link)
 - Youtube link : [https://youtu.be/Fl_dOi07GPE](https://youtu.be/Fl_dOi07GPE)
-- 
 
 ## 💼 Developed By
--Guguloth Rajkumar
+- Guguloth Rajkumar
 
--Graduate in Civil Engineering | Full Stack Java Developer
+- Graduate in Civil Engineering | Full Stack Java Developer
 
--Cloud Counselage Pvt. Ltd. | GPI 2025 Intern
+- Cloud Counselage Pvt. Ltd. | GPI 2025 Intern
 
--Hyderabad, Telangana
+- Hyderabad, Telangana
 
--📧 rajkumar173927@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkumar-guguloth/) | 📞 +91-9390494309
+- 📧 rajkumar173927@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkumar-guguloth/) | 📞 +91-9390494309
 
 
 
