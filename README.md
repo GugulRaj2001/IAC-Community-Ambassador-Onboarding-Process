@@ -7,7 +7,7 @@ It is also Approach Full Stack Java Developement.
 
 ## 📌 Table of Contents
 
-- [About the Project 📖](#about-the-project-📖)
+- [About the Project](#about-the-project)
 - [Problem Statement](#problem-statement)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -161,7 +161,7 @@ This project solves the problem by:
 
 ---
 
-## 🖼️ Project Screenshots
+## Project Screenshots
 
 > *(Out put of Project and project Screenshorts)*
 
